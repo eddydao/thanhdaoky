@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thanh "Tyler" Đào @thanhdaoky
+- 👋 Hi, I’m Thanh "Eddy" Dao @thanhdaoky
 - 👀 I’m interested in web development, reading book
 - 🌱 I’m currently learning ReactJS, microservice
 - 📫 Contact me: daokythanh.343@gmail.com or linkedin.com/in/daokythanh
